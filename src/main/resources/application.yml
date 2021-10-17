@@ -1,0 +1,4 @@
+aws:
+  sqs:
+    queue: MyQueue
+    region: us-east-2
